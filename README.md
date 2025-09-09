@@ -105,3 +105,26 @@
 ✉️ **patty.canul@outlook.com** | **patty.canul98@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/patricia-canul-canul-7964521a1/)  
  
+---
+
+<div align="center" style="padding: 20px; background: linear-gradient(to right, #e0f7fa, #fce4ec); border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+
+  <img src="portada.jfif" width="600px" alt="Portada del perfil"
+       style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+
+  <p><strong>Patricia Canul</strong> – Desarrolladora Jr. me encanta Flutter, aprendiendo .NET Framework </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  </p>
+
+  <p><em>¿Te interesa colaborar o compartir ideas?  
+  ¡Estoy abierta a nuevas oportunidades y conexiones!</em></p>
+
+</div>
+
+
