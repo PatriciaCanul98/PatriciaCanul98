@@ -1,14 +1,11 @@
 <p align="center">
   <!-- Línea 1 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=900&size=30&duration=4000&pause=1000&color=0EB7F7&repeat=false&center=true&width=800&lines=%C2%A1Hola%2C+soy+Patricia!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=900&size=30&duration=4000&pause=1000&color=0EB7F7&repeat=false&center=true&width=800&lines=%C2%A1Hola%2C+soy+Patricia!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
   
   <!-- Línea 2 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=700&size=22&duration=4000&pause=1000&color=F7F7F7&center=true&repeat=false&width=800&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Desarrolladora+Jr.+%7C+Apasionada+por+el+aprendizaje+constante" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=700&size=22&duration=4000&pause=1000&color=F7F7F7&center=true&repeat=false&width=800&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Desarrolladora+Jr.+%7C+Apasionada+por+el+aprendizaje+constante" alt="Typing SVG" />
 </p>
+
 
 ---
 
