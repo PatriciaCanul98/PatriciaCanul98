@@ -20,7 +20,7 @@
 - 💡 Comenzando a desarrollar en Flutter  
 - 💬 Conocimiento en [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)  
 - 📫 Contacto: patty.canul@outlook.com | patty.canul98@gmail.com  
-- ⚡ Dato Curioso: *"Jamás creí que podría aprender a programar… ¡y aquí estoy creando proyectos increíbles!"* ✨ 
+- ⚡ Dato Curioso: *"Jamás creí que podría aprender a programar… ¡y aquí estoy, intentando crear proyectos increíbles!"* ✨ 
 
 ---
 
